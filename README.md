@@ -1,2 +1,2 @@
-Diabetes  web and streamlite
+Diabetes  web and Streamlit
 
